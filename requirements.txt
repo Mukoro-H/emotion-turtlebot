@@ -1,0 +1,4 @@
+deepface
+tf-keras
+opencv-python
+# fer   # tuỳ chọn, nếu dùng backend:=fer
